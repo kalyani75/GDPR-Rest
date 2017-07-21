@@ -1,0 +1,12 @@
+Agent:	Hello and you have reached the XYZ Services.  How can I help you?
+Customer:	Hi, My name is Steve Cook and I need to know the credit report for a person 
+Agent:	OK. I will require some personal details
+Customer: Sure
+Agent: Please tell me your SSN
+Customer:My SSN is 234-566-9985.
+Agent: Please state your residential addresses.
+Customer: ok the Address is 5 West Ave, #4, Hawthorne, NY 10513,USA
+Agent: and what is you email id
+Customer: It is dkalyani@in.ibm.com
+Agent: Please tell me your drivers license number
+Customer:drivers license number is UI23453466P

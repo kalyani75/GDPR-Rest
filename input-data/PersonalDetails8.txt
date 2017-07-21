@@ -1,0 +1,12 @@
+Agent:	Hello and you have reached the ABC bank.  How can I help you?
+Customer:	Hi, My name is Sean Conrey and I need to have a background check done for a person 
+Agent:	OK. I will require some personal details
+Customer: Sure
+Agent: Please tell me your SSN
+Customer:My SSN is 345-234-6785.
+Agent: Please state your residential addresses.
+Customer: My Address is 12 South block, #3, Nashville, NY 10343,USA
+Agent: and what is you email id
+Customer: My email is sean@us.ibm.com
+Agent: Please tell me your drivers license number
+Customer:drivers license number is UI324555M

@@ -1,0 +1,13 @@
+Agent:	Hello and you have reached the ABC bank.  How can I help you?
+Customer:	Hi, My name is Helen Hunt and I need to have a background check done for a person 
+Agent:	OK. Please provide the following information
+Customer: Sure
+Agent: Please tell me your SSN
+Customer:My SSN is 567-789-8990.
+So why do require my information?
+Agent: and what is your addresses.
+Customer: My Address is 38 North Main Road, #1, YorkTown heights, NY 105201,USA
+Agent: and what is you email id
+Customer: My email is hhunt@us.ibm.com
+Agent: Please tell me your drivers license number
+Customer:drivers license number is UI2323345U

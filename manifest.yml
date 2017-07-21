@@ -1,0 +1,9 @@
+applications:
+- path: output/GDPRRest.war
+  memory: 512M
+  instances: 1
+  domain: mybluemix.net
+  name: GDPRRest
+  host: GDPRRest
+  disk_quota: 1024M
+

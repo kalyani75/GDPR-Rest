@@ -1,0 +1,12 @@
+Agent:	Hello and you have reached the ABC bank.  How can I help you?
+Customer:	Hi, My name is John Smith and I need to have a background check done for a person 
+Agent:	OK. I will require some personal details
+Customer: Sure
+Agent: Please tell me your SSN
+Customer:My SSN is 567-789-8990.
+Agent: Please state your residential addresses.
+Customer: My Address is 35 South Stone Ave, #2, Elmsford, NY 10523,USA
+Agent: and what is you email id
+Customer: My email is dkalyani@in.ibm.com
+Agent: Please tell me your drivers license number
+Customer:drivers license number is UI2345345M

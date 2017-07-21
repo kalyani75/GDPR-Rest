@@ -1,0 +1,12 @@
+Agent:	Hello and you have reached the SOME Agency.  How can I help you?
+Customer:	Hi, My name is Jane Austin and I need to have a background check done for a person 
+Agent:	OK. I will require some personal details
+Customer: Sure
+Agent: Please tell me your SSN
+Customer:My SSN is 454-223-2134.
+Agent: Please state your residential addresses.
+Customer: My Address is 6 March Ave, #2, Jackson Heights, NY 10324,USA
+Agent: and what is you email id
+Customer: My email is jane@us.ibm.com
+Agent: Please tell me your drivers license number
+Customer:drivers license number is UI5462245L
